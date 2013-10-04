@@ -1,0 +1,93 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qml/main.qml</file>
+        <file>qml/MenuPage.qml</file>
+        <file>qml/DesignPage.qml</file>
+    </qresource>
+    <qresource prefix="/eyes">
+        <file alias="1">resources/images/Eyes/Eye-1.png</file>
+        <file alias="2">resources/images/Eyes/Eye-2.png</file>
+        <file alias="3">resources/images/Eyes/Eye-3.png</file>
+        <file alias="4">resources/images/Eyes/Eye-4.png</file>
+        <file alias="5">resources/images/Eyes/Eye-5.png</file>
+        <file alias="6">resources/images/Eyes/Eye-6.png</file>
+        <file alias="7">resources/images/Eyes/Eye-7.png</file>
+        <file alias="8">resources/images/Eyes/Eye-8.png</file>
+        <file alias="9">resources/images/Eyes/Eye-9.png</file>
+        <file alias="10">resources/images/Eyes/Eye-10.png</file>
+        <file alias="11">resources/images/Eyes/Eye-11.png</file>
+        <file alias="12">resources/images/Eyes/Eye-12.png</file>
+        <file alias="13">resources/images/Eyes/Eye-13.png</file>
+        <file alias="14">resources/images/Eyes/Eye-14.png</file>
+        <file alias="15">resources/images/Eyes/Eye-15.png</file>
+        <file alias="16">resources/images/Eyes/Eye-16.png</file>
+        <file alias="17">resources/images/Eyes/Eye-17.png</file>
+        <file alias="18">resources/images/Eyes/Eye-18.png</file>
+        <file alias="19">resources/images/Eyes/Eye-19.png</file>
+        <file alias="20">resources/images/Eyes/Eye-20.png</file>
+        <file alias="21">resources/images/Eyes/Eye-21.png</file>
+        <file alias="22">resources/images/Eyes/Eye-22.png</file>
+        <file alias="23">resources/images/Eyes/Eye-23.png</file>
+        <file alias="24">resources/images/Eyes/Eye-24.png</file>
+        <file alias="25">resources/images/Eyes/Eye-25.png</file>
+        <file alias="26">resources/images/Eyes/Eye-26.png</file>
+        <file alias="27">resources/images/Eyes/Eye-27.png</file>
+        <file alias="28">resources/images/Eyes/Eye-28.png</file>
+        <file alias="29">resources/images/Eyes/Eye-29.png</file>
+        <file alias="30">resources/images/Eyes/Eye-30.png</file>
+    </qresource>
+    <qresource prefix="/heads">
+        <file alias="1">resources/images/Head/Black-1.png</file>
+        <file alias="2">resources/images/Head/Black-2.png</file>
+        <file alias="3">resources/images/Head/Blue-1.png</file>
+        <file alias="4">resources/images/Head/Blue-2.png</file>
+        <file alias="5">resources/images/Head/Brown-1.png</file>
+        <file alias="6">resources/images/Head/Brown-2.png</file>
+        <file alias="7">resources/images/Head/Gray-1.png</file>
+        <file alias="8">resources/images/Head/Gray-2.png</file>
+        <file alias="9">resources/images/Head/Green-1.png</file>
+        <file alias="10">resources/images/Head/Green-2.png</file>
+        <file alias="11">resources/images/Head/LightBlue-1.png</file>
+        <file alias="12">resources/images/Head/LightBlue-2.png</file>
+        <file alias="13">resources/images/Head/LightBrown-1.png</file>
+        <file alias="14">resources/images/Head/LightBrown-2.png</file>
+        <file alias="15">resources/images/Head/LightOrange-1.png</file>
+        <file alias="16">resources/images/Head/LightOrange-2.png</file>
+        <file alias="17">resources/images/Head/LightPurple-1.png</file>
+        <file alias="18">resources/images/Head/LightPurple-2.png</file>
+        <file alias="19">resources/images/Head/Lime-1.png</file>
+        <file alias="20">resources/images/Head/Lime-2.png</file>
+        <file alias="21">resources/images/Head/Orange-1.png</file>
+        <file alias="22">resources/images/Head/Orange-2.png</file>
+        <file alias="23">resources/images/Head/Purple-1.png</file>
+        <file alias="24">resources/images/Head/Purple-2.png</file>
+        <file alias="25">resources/images/Head/Red-1.png</file>
+        <file alias="26">resources/images/Head/Red-2.png</file>
+        <file alias="27">resources/images/Head/White-1.png</file>
+        <file alias="28">resources/images/Head/White-2.png</file>
+        <file alias="29">resources/images/Head/Yellow-1.png</file>
+        <file alias="30">resources/images/Head/Yellow-2.png</file>
+    </qresource>
+    <qresource prefix="/mouth">
+        <file alias="1">resources/images/Mouth/mouth-1.png</file>
+        <file alias="2">resources/images/Mouth/mouth-2.png</file>
+        <file alias="3">resources/images/Mouth/mouth-3.png</file>
+        <file alias="4">resources/images/Mouth/mouth-4.png</file>
+        <file alias="5">resources/images/Mouth/mouth-5.png</file>
+        <file alias="6">resources/images/Mouth/mouth-6.png</file>
+        <file alias="7">resources/images/Mouth/mouth-7.png</file>
+        <file alias="8">resources/images/Mouth/mouth-8.png</file>
+        <file alias="9">resources/images/Mouth/mouth-9.png</file>
+        <file alias="10">resources/images/Mouth/mouth-10.png</file>
+        <file alias="11">resources/images/Mouth/mouth-11.png</file>
+        <file alias="12">resources/images/Mouth/mouth-12.png</file>
+        <file alias="13">resources/images/Mouth/mouth-13.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="meegotar">resources/images/meegotar.png</file>
+        <file alias="btnBlackLeft">resources/images/btnBlackLeft.png</file>
+        <file alias="btnBlackRight">resources/images/btnBlackRight.png</file>
+        <file alias="btnRedLeft">resources/images/btnRedLeft.png</file>
+        <file alias="btnRedRight">resources/images/btnRedRight.png</file>
+    </qresource>
+</RCC>
